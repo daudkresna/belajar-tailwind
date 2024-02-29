@@ -19,3 +19,7 @@
     @apply -rotate-45;
 }
 
+/* Button Review */
+.button-active {
+    @apply w-3
+}
